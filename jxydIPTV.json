@@ -1,9 +1,9 @@
 //以下全部出自网络和大佬资源，如有冒犯请联系删除。[所有内容仅供学习使用，请勿用于违法用途]
 //本接口无公众号、无盈利、无引流、免费分享给小白使用，请勿轻信他人，谨防上当受骗。
-//🐧裙：711368232
+//🐧裙：
 
 {
-  "spider": "https://raw.githubusercontent.com/yb0121/jxIPTV/main/Yoursmile.jar;md5;29978B04B8AEAEDE94F91B23B35E3405",
+  "spider": "./Yoursmile.jar;md5;29978B04B8AEAEDE94F91B23B35E3405",
   "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
   "sites": [
     {
@@ -422,12 +422,12 @@
       "key": "dr_荐片",
       "name": "🧲荐片",
       "type": 3,
-      "api": "https://raw.githubusercontent.com/yb0121/jxIPTV/main/js/lib/drpy2.min.js",
+      "api": "./lib/drpy2.min.js",
       "playerType": "1",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/yb0121/jxIPTV/main/js/荐片.js"
+      "ext": "./js/荐片.js"
     },
     {
       "key": "农民",
@@ -437,7 +437,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/yb0121/jxIPTV/main/sub/农民影视.json"
+      "ext": "./sub/农民影视.json"
     },
     {
       "key": "骚火",
@@ -469,7 +469,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/yb0121/jxIPTV/main/sub/乐猪.json"
+      "ext": "./sub/乐猪.json"
     },
     {
       "key": "奇优",
@@ -479,7 +479,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/yb0121/jxIPTV/main/sub/奇优.json"
+      "ext": "./sub/奇优.json"
     },
     {
       "key": "云播",
@@ -567,62 +567,62 @@
       "key": "drpy_js_短剧网",
       "name": "🗽短剧网",
       "type": 3,
-      "api": "https://raw.githubusercontent.com/yb0121/jxIPTV/main/js/lib/drpy2.min.js",
+      "api": "./js/lib/drpy2.min.js",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://raw.githubusercontent.com/yb0121/jxIPTV/main/js/短剧网.js"
+      "ext": "./js/短剧网.js"
     },
     {
       "key": "drpy_js_虎牙直播",
       "name": "🐯虎牙直播",
       "type": 3,
-      "api": "https://raw.githubusercontent.com/yb0121/jxIPTV/main/js/lib/drpy2.min.js",
+      "api": "./js/lib/drpy2.min.js",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://raw.githubusercontent.com/yb0121/jxIPTV/main/js/虎牙直播.js"
+      "ext": "./js/虎牙直播.js"
     },
     {
       "key": "drpy_js_斗鱼直播",
       "name": "🐠斗鱼直播",
       "type": 3,
-      "api": "https://raw.githubusercontent.com/yb0121/jxIPTV/main/js/lib/drpy2.min.js",
+      "api": "./js/lib/drpy2.min.js",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://raw.githubusercontent.com/yb0121/jxIPTV/main/js/斗鱼直播.js"
+      "ext": "./js/斗鱼直播.js"
     },
     {
       "key": "drpy_js_有声小说吧",
       "name": "有声小说吧",
       "type": 3,
-      "api": "https://raw.githubusercontent.com/yb0121/jxIPTV/main/js/lib/drpy2.min.js",
+      "api": "./js/lib/drpy2.min.js",
       "playerType": "2",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://raw.githubusercontent.com/yb0121/jxIPTV/main/js/有声小说吧.js"
+      "ext": "./js/有声小说吧.js"
     },
     {
       "key": "drpy_js_88看球",
       "name": "88看球",
       "type": 3,
-      "api": "https://raw.githubusercontent.com/yb0121/jxIPTV/main/js/lib/drpy2.min.js",
+      "api": "./js/lib/drpy2.min.js",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://raw.githubusercontent.com/yb0121/jxIPTV/main/js/88看球.js"
+      "ext": "./js/88看球.js"
     },
     {
       "key": "drpy_js_JRKAN直播",
       "name": "JRKAN直播",
       "type": 3,
-      "api": "https://raw.githubusercontent.com/yb0121/jxIPTV/main/js/lib/drpy.min.js",
+      "api": "./js/lib/drpy.min.js",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://raw.githubusercontent.com/yb0121/jxIPTV/main/js/JRKAN直播.js"
+      "ext": "./js/JRKAN直播.js"
     },
     {
       "key": "短视频",
@@ -684,7 +684,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/yb0121/jxIPTV/main/sub/Bili.json"
+      "ext": "./sub/Bili.json"
     },
     {
       "key": "相声小品",
@@ -694,7 +694,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/yb0121/jxIPTV/main/sub/Blixs.json"
+      "ext": "./sub/Blixs.json"
     },
     {
       "key": "戏曲",
@@ -704,7 +704,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/yb0121/jxIPTV/main/sub/Blixq.json"
+      "ext": "./sub/Blixq.json"
     },
     {
       "key": "少儿",
@@ -714,7 +714,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/yb0121/jxIPTV/main/sub/少儿教育.json"
+      "ext": "./sub/少儿教育.json"
     },
     {
       "key": "小学",
@@ -724,7 +724,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/yb0121/jxIPTV/main/sub/小学课堂.json"
+      "ext": "./sub/小学课堂.json"
     },
     {
       "key": "初中",
@@ -734,7 +734,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/yb0121/jxIPTV/main/sub/初中课堂.json"
+      "ext": "./sub/初中课堂.json"
     },
     {
       "key": "高中",
@@ -744,7 +744,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/yb0121/jxIPTV/main/sub/高中课堂.json"
+      "ext": "./sub/高中课堂.json"
     }
   ],
   "parses": [
@@ -998,7 +998,7 @@
     {
       "name": "live",
       "type": 0,
-      "url": "https://raw.gitmirror.com/yb0121/jxIPTV/main/jxydIPTV.txt",
+      "url": "./jxydIPTV.txt",
       "playerType": 1,
       "ua": "okhttp/3.15",
       "epg": "http://diyp.112114.xyz/?ch={name}&date={date}",
