@@ -209,54 +209,7 @@ rtsp://118.212.169.207:554/PLTV/88888888/224/3221227276/100001000000000600000000
 rtsp://118.212.169.207:554/PLTV/88888888/224/3221227309/10000100000000060000000001945892_0.smil
 #EXTINF:-1 tvg-name="CCTV4美洲" tvg-logo="https://raw.fgit.cf/yb0121/live/main/tv/CCTV4美洲.png" group-title="其他",CCTV4美洲
 rtsp://118.212.169.207:554/PLTV/88888888/224/3221227311/10000100000000060000000001945895_0.smil
-#EXTINF:-1 tvg-name="CGTN-英语" tvg-logo="https://raw.fgit.cf/yb0121/live/main/tv/CGTN-英语.png" group-title="其他",CGTN-英语
-rtsp://118.212.169.207:554/0.smil
-#EXTINF:-1 tvg-name="CGTN-纪录" tvg-logo="https://raw.fgit.cf/yb0121/live/main/tv/CGTN-纪录.png" group-title="其他",CGTN-纪录
-rtsp://118.212.169.207:554/0.smil
-#EXTINF:-1 tvg-name="CGTN-西班牙语" tvg-logo="https://raw.fgit.cf/yb0121/live/main/tv/CGTN-西班牙语.png" group-title="其他",CGTN-西班牙语
-rtsp://118.212.169.207:554/0.smil
-#EXTINF:-1 tvg-name="CGTN-法语" tvg-logo="https://raw.fgit.cf/yb0121/live/main/tv/CGTN-法语.png" group-title="其他",CGTN-法语
-rtsp://118.212.169.207:554/0.smil
-#EXTINF:-1 tvg-name="CGTN-阿拉伯语" tvg-logo="https://raw.fgit.cf/yb0121/live/main/tv/CGTN-阿拉伯语.png" group-title="其他",CGTN-阿拉伯语
-rtsp://118.212.169.207:554/0.smil
-#EXTINF:-1 tvg-name="CGTN-俄语" tvg-logo="https://raw.fgit.cf/yb0121/live/main/tv/CGTN-俄语.png" group-title="其他",CGTN-俄语
-rtsp://118.212.169.207:554/0.smil
-#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://raw.fgit.cf/yb0121/live/main/tv/CGTN.png" group-title="其他",CGTN
-rtsp://118.212.169.207:554/0.smil
-#EXTINF:-1 tvg-name="汽摩" tvg-logo="https://raw.fgit.cf/yb0121/live/main/tv/汽摩.png" group-title="其他",汽摩
-rtsp://118.212.169.207:554/0.smil
-#EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://raw.fgit.cf/yb0121/live/main/tv/卡酷少儿.png" group-title="其他",卡酷少儿
-rtsp://118.212.169.207:554/0.smil
-#EXTINF:-1 tvg-name="嘉佳卡通" tvg-logo="https://raw.fgit.cf/yb0121/live/main/tv/嘉佳卡通.png" group-title="其他",嘉佳卡通
-rtsp://118.212.169.207:554/0.smil
-#EXTINF:-1 tvg-name="欢笑剧场-4K" tvg-logo="https://raw.fgit.cf/yb0121/live/main/tv/欢笑剧场-4K.png" group-title="其他",欢笑剧场-4K
-rtsp://118.212.169.207:554/0.smil
-#EXTINF:-1 tvg-name="都市剧场" tvg-logo="https://raw.fgit.cf/yb0121/live/main/tv/都市剧场.png" group-title="其他",都市剧场
-rtsp://118.212.169.207:554/0.smil
-#EXTINF:-1 tvg-name="山东教育" tvg-logo="https://raw.fgit.cf/yb0121/live/main/tv/山东教育.png" group-title="其他",山东教育
-rtsp://118.212.169.207:554/0.smil
-#EXTINF:-1 tvg-name="东方财经" tvg-logo="https://raw.fgit.cf/yb0121/live/main/tv/东方财经.png" group-title="其他",东方财经
-rtsp://118.212.169.207:554/0.smil
-#EXTINF:-1 tvg-name="乐游" tvg-logo="https://raw.fgit.cf/yb0121/live/main/tv/乐游.png" group-title="其他",乐游
-rtsp://118.212.169.207:554/0.smil
-#EXTINF:-1 tvg-name="法治天地" tvg-logo="https://raw.fgit.cf/yb0121/live/main/tv/法治天地.png" group-title="其他",法治天地
-rtsp://118.212.169.207:554/0.smil
-#EXTINF:-1 tvg-name="生活时尚" tvg-logo="https://raw.fgit.cf/yb0121/live/main/tv/生活时尚.png" group-title="其他",生活时尚
-rtsp://118.212.169.207:554/0.smil
-#EXTINF:-1 tvg-name="金色频道" tvg-logo="https://raw.fgit.cf/yb0121/live/main/tv/金色频道.png" group-title="其他",金色频道
-rtsp://118.212.169.207:554/0.smil
-#EXTINF:-1 tvg-name="国学" tvg-logo="https://raw.fgit.cf/yb0121/live/main/tv/国学.png" group-title="其他",国学
-rtsp://118.212.169.207:554/0.smil
-#EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://raw.fgit.cf/yb0121/live/main/tv/动漫秀场.png" group-title="其他",动漫秀场
-rtsp://118.212.169.207:554/0.smil
-#EXTINF:-1 tvg-name="游戏风云" tvg-logo="https://raw.fgit.cf/yb0121/live/main/tv/游戏风云.png" group-title="其他",游戏风云
-rtsp://118.212.169.207:554/0.smil
-#EXTINF:-1 tvg-name="电视指南" tvg-logo="https://raw.fgit.cf/yb0121/live/main/tv/电视指南.png" group-title="其他",电视指南
-rtsp://118.212.169.207:554/0.smil
-#EXTINF:-1 tvg-name="书画" tvg-logo="https://raw.fgit.cf/yb0121/live/main/tv/书画.png" group-title="其他",书画
-rtsp://118.212.169.207:554/0.smil
-#EXTINF:-1 tvg-name="环球奇观" tvg-logo="https://raw.fgit.cf/yb0121/live/main/tv/环球奇观.png" group-title="其他",环球奇观
-rtsp://118.212.169.207:554/0.smil
+
 #EXTINF:-1 tvg-name="中国教育1台标清" tvg-logo="https://raw.fgit.cf/yb0121/live/main/tv/中国教育1台标清.png" group-title="备用IP",中国教育1台标清
 rtsp://171.35.195.58:554/PLTV/88888888/224/3221226979/10000100000000060000000000568694_0.smil
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.fgit.cf/yb0121/live/main/tv/CCTV1.png" group-title="备用IP",CCTV-1标清
